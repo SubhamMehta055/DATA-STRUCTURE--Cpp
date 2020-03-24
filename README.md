@@ -1,3 +1,3 @@
 # DATA-STRUCTURE--Cpp
 
-All the data structure programs of cpp lang. are available and i request if you find bugs please do ***pull request****
+All the data structure programs in c++ lang. are available which is helpful for technical interview .
